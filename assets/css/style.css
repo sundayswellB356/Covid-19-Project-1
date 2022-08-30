@@ -29,7 +29,12 @@
                                 margin-right:20px;
                                 }
         
-                    #nav a:hover{
+                                nav:a{
+                                    text-decoration:none;
+                                    color:inherit;
+                                    }
+                        
+                        #nav a:hover{
                         border-bottom: 1.5px solid #2c88e2;
                     }
                   
@@ -45,6 +50,12 @@
                         letter-spacing:4px;
                         color:#2c88e2;
                      }
+
+                        .coronavirus{
+                            border-bottom: 1px solid #a8aaab;
+                        }
+                        
+                     
                         
                         
                         
