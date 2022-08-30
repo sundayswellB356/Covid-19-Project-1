@@ -9,4 +9,14 @@
             font-family:Roboto,sans-serif;
             font-weight:400;
             color:#2c88e2;
-            }   
+            }
+            
+           nav{
+             font-size:50%;
+             letter-spacing:4px;
+           }
+           nav li{
+            float:right;
+            list-style-type:none;
+            margin-right:20px;
+           }
