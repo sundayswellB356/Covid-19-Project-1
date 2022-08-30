@@ -38,21 +38,20 @@
                         height:600px;
                         width:100%;
                         background:url('../istockphoto-1217107510-612x612.jpg')no-repeat center center;
-                        }
+                     }
+                     #beyond{
+                        font-family:poppins,san-serif;
+                        text-transform:uppercase;
+                        letter-spacing:4px;
+                        color:#2c88e2;
+                     }
+                        
+                        
+                        
 
-                        #coronavirus-text{
-                            font-size:100%;
-                            font-family:Roboto, sans-serif;
-                            text-transform:uppercase;
-                            letter-spacing:2px;
-                            width:300px;
-                            height:200px;
-                            padding-top:30px;
-                            padding-left:10px;
-                            background-color:#2c88e2,#a8aaab;
-                            
-                            position:absolute;
-                            }
+                        
+                        
+                      
                     
     
                 
