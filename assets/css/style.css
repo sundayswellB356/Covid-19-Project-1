@@ -5,18 +5,45 @@
     padding:0;
     border:0;
     }
-        body{
-            font-family:Roboto,sans-serif;
-            font-weight:400;
-            color:#2c88e2;
-            }
-            
-           nav{
-             font-size:50%;
-             letter-spacing:4px;
-           }
-           nav li{
-            float:right;
-            list-style-type:none;
-            margin-right:20px;
-           }
+                body{
+                font-family:Roboto,sans-serif;
+                font-weight:400;
+                color:#a8aaab;;
+                }
+               
+                h1,h2{
+                    font-family:poppins, sans-serif;
+                    text-transform:uppercase;
+                    color:#2c88e2;
+                     }
+                
+                
+                
+                #nav{
+                        font-size:110%;
+                        letter-spacing:4px;
+                        }
+                            #nav li{
+                            float:right;
+                             list-style-type:none;
+                                margin-right:20px;
+                                }
+        
+                    
+                  
+                     
+                     #coronavirus-2019{
+                        height:600px;
+                        width:100%;
+                        background:url('../istockphoto-1217107510-612x612.jpg')no-repeat center center;
+                        }
+    
+                
+              
+
+           
+                       
+                         
+                        
+
+
