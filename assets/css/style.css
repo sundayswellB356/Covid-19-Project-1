@@ -7,70 +7,89 @@
     }
                 body{
                 font-family:Roboto,sans-serif;
-                font-weight:400;
-                color:#a8aaab;;
+                font-weight:bold;
+                color:#2c88e2;
                 }
                
+                
+
                 h1,h2{
-                    font-family:poppins, sans-serif;
+                    font-family:Poppins,sans-serif;
+                    font-weight:bold;
+                    text-align:left;
                     text-transform:uppercase;
-                    color:#2c88e2;
+                     padding-top:20px;
+                    letter-spacing:1px;
+                    color:#a8aaab;
+                }
+                    
+                
+                
+               
+                     #coronavirus-2019{
+                       height:600px;
+                        width:100%;
+                        padding-top:60px;
+                        float:right;
+                       background:url("../1582065498831.webp")no-repeat center center;
+                       
+                       position:relative;
                      }
-                
-                
-                
-                #nav{
+                   
+                     #nav{
                         font-size:110%;
+                        font-weight:bold;
+                        text-decoration:none;
+                        text-align:right;
                         letter-spacing:4px;
-                        }
+                        text-transform:uppercase;
+                        padding-bottom: 40px;
+                        color:#2c88e2;
+                    }
                             #nav li{
                             float:right;
-                             list-style-type:none;
-                                margin-right:20px;
+                            text-align:center;
+                            text-decoration:none;
+                            font-weight:bold;
+                            list-style-type:none;
+                            text-transform:uppercase;
+                            padding-bottom:20px;
+                            margin-right:20px;
                                 }
         
                                 nav:a{
                                     text-decoration:none;
+                                    font-weight:bold;
+                                    text-align:center;
+                                    text-transform:uppercase;
+                                    padding-bottom:20px;
                                     color:inherit;
                                     }
                         
                         #nav a:hover{
-                        border-bottom: 1.5px solid #2c88e2;
-                    }
-                  
-                     
-                     #coronavirus-2019{
-                        height:600px;
-                        width:100%;
-                        background:url('../istockphoto-1217107510-612x612.jpg')no-repeat center center;
-                     }
-                     #beyond{
-                        font-family:poppins,san-serif;
-                        text-transform:uppercase;
-                        letter-spacing:4px;
-                        color:#2c88e2;
-                     }
-
-                        .coronavirus{
-                            border-bottom: 1px solid #a8aaab;
+                        border-bottom:1px solid #a8aaab;
+                            
                         }
-                        
                      
-                        
-                        
-                        
+                     
+                     .container{
+                        overflow:hidden;
+                        width:100%;
+                        padding-top:60%;
+                        }
 
-                        
-                        
-                      
+                    .responsive-iframe{
+                        top:0;
+                        left:0;
+                        bottom:0;
+                        right:0;
+                        width:100%;
+                        height:100%;
+
+                        }
                     
     
                 
               
 
-           
-                       
-                         
-                        
-
-
+    
