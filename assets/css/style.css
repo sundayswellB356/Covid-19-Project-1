@@ -30,44 +30,35 @@
                
                         
                     
-                         #nav{
+                         #menu{
                         font-size:110%;
                         letter-spacing: 4px;
                         
                         }     
                        
                           
-                            #nav li{
+                            #menu li{
                             float:right;
                             list-style-type: none; 
                             margin-left: 30px;
                             }
-                                nav:a{
+                                #menu:a{
                                     text-decoration:none;
                                     color:#a8aaab;
                                     text-align:right;
                                     float:right;
                                 }
                         
-                        #nav a:hover{
+                        #menu a:hover{
                         border-bottom: 1px solid #a8aaab;
                             
-                        }  coronavirus-logo{
-                            line-height:75px;
-                            }
+                        
 
                            
                            
-                                #coronavirus-2019-logo{
-                                float:left;
-                                font-size:280%;
-                                margin-left:30px;
-                                 } 
-                                 coronavrius-origin{
-                                    height:500px;
-                                    width:100%;
-                                    float:right;
-                                 }
+                              
+                                
+                                 
                                 
                                      
 
@@ -84,7 +75,7 @@
                                     height:600px;
                                     text-align:center;
                                     width:100%;
-                                   background:url("../1582065498831.webp")no-repeat center center;
+                                   background:url("../images/th.jpg")no-repeat center center;
                                    padding-right:30px;
                                    
                                    animation-name:coronavirus-2019-image;
@@ -102,13 +93,10 @@
                                 }
                             
                                 
-                                 coronavirus-left{
-                                        padding:30px;
-                                        width:33%;
-                                        float:left;
+                                
                                         
-                                    position:relative;
-                                    }
+                            
+                                    
                                         .active{
                                             border-bottom:1px solid 2c88e2;
                                             } 
