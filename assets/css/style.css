@@ -6,19 +6,21 @@
     border:0;
     }
                 body{
-                font-family:Roboto,sans-serif;
+                font-family:Poppins,sans-serif;
                 font-weight:bold;
                 color:#2c88e2;
-                }
+                text-align:left;
+                 }
                
                 
 
                 h1,h2{
+                    
                     font-family:Roboto,sans-serif;
                     font-weight:bold;
-                    text-align:left;
+                  
                     text-transform:uppercase;
-                     padding-top:20px;
+                     padding:20px;
                     letter-spacing:1px;
                     color:#2c88e2;
                 }
@@ -26,27 +28,26 @@
                 
                            
                
-                         #coronavirus-2019-image{
-                         height:600px;
-                         width:100%;
-                        background:url("../1582065498831.webp")no-repeat center center;
-                     }
-                   
-                     #nav{
+                        
+                    
+                         #nav{
                         font-size:110%;
                         letter-spacing: 4px;
+                        
                         }     
                        
                           
                             #nav li{
                             float:right;
                             list-style-type: none; 
-                            margin-right:20px;
+                            margin-left: 30px;
                             }
                                 nav:a{
                                     text-decoration:none;
-                                    color:inherit;
-                                    }
+                                    color:#a8aaab;
+                                    text-align:right;
+                                    float:right;
+                                }
                         
                         #nav a:hover{
                         border-bottom: 1px solid #a8aaab;
@@ -57,57 +58,80 @@
 
                            
                            
-                                #coronavirus-2019{
-                                float:right;
-                                font-size:200%;
-                                margin-left:20px;
+                                #coronavirus-2019-logo{
+                                float:left;
+                                font-size:280%;
+                                margin-left:30px;
                                  } 
                                  coronavrius-origin{
                                     height:500px;
                                     width:100%;
-                                    overflow:hidden;
-                               
-                                    position:relative;
-                                    } 
+                                    float:right;
+                                 }
+                                
+                                     
 
-                                    coronavirus-left{
-                                        padding-top:25px;
+                                    
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                
+                                 #coronavirus-2019-image{
+                                    height:600px;
+                                    text-align:center;
+                                    width:100%;
+                                   background:url("../1582065498831.webp")no-repeat center center;
+                                   padding-right:30px;
+                                   
+                                   animation-name:coronavirus-2019-image;
+                                   animation-duration:5s;
+                                   animation-fill-mode:forwards;
+                                    }
+                                @keyframes coronavirus-2019-image{
+                                    from{
+
+                                        transform:scale(1);
+                                        }
+                                        to{
+                                            transform:scale(1.1);
+                                        }
+                                }
+                            
+                                
+                                 coronavirus-left{
+                                        padding:30px;
                                         width:33%;
                                         float:left;
-                                        }
-
+                                        
+                                    position:relative;
+                                    }
                                         .active{
                                             border-bottom:1px solid 2c88e2;
-                                        }
-
-                                        #symptoms-Coronavirus-2019{
-                                            background-image:url("../images/Naas Court House.jpg");
-                                            background-repeat:no-repeat;
-                                            background-position:center;
-                                            width:100%;
-                                            overflow:hidden;
-                                        }
-
-                                        #stay-at-home{
-                                            color:#a8aaab;
-                                            background-color:rgba(0,0,.6);
-                                            width: 20%;
-                                            height:300px;
+                                            } 
+                                        
+                                        coronavirus-left{
+                                            padding:0;
+                                            width:33%;
                                             float:left;
-                                            padding:30px 0 0 10px;
-                                            border:2px solid white;
-                                            box-sizing:border-box;
                                             }
+                                            .responsive-iframe{
+                                                width: 560;
+                                                height:315;
+                                                float:right;
+                                                padding:30px;
+                                            
+                                            }
+                                           
+                                                
 
-                                            #stay-at-home,#h2{
-                                                color:#a8aaab;
-                                            }
+
+                                      
                                        
-                        
 
-
-                     
-                     
-                    
+                                       
 
     
