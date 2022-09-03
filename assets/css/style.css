@@ -24,21 +24,24 @@
                 }
                     
                 
-                
+                           
                
-                     #coronavirus-2019-image{
-                       height:600px;
-                        width:100%;
+                         #coronavirus-2019-image{
+                         height:600px;
+                         width:100%;
                         background:url("../1582065498831.webp")no-repeat center center;
                      }
                    
                      #nav{
-                        line-height:80px;
-                    }
+                        font-size:110%;
+                        letter-spacing: 4px;
+                        }     
+                       
+                          
                             #nav li{
                             float:right;
                             list-style-type: none; 
-                            margin-right:30px;
+                            margin-right:20px;
                             }
                                 nav:a{
                                     text-decoration:none;
@@ -48,7 +51,61 @@
                         #nav a:hover{
                         border-bottom: 1px solid #a8aaab;
                             
-                        }
+                        }  coronavirus-logo{
+                            line-height:75px;
+                            }
+
+                           
+                           
+                                #coronavirus-2019{
+                                float:right;
+                                font-size:200%;
+                                margin-left:20px;
+                                 } 
+                                 coronavrius-origin{
+                                    height:500px;
+                                    width:100%;
+                                    overflow:hidden;
+                               
+                                    position:relative;
+                                    } 
+
+                                    coronavirus-left{
+                                        padding-top:25px;
+                                        width:33%;
+                                        float:left;
+                                        }
+
+                                        .active{
+                                            border-bottom:1px solid 2c88e2;
+                                        }
+
+                                        #symptoms-Coronavirus-2019{
+                                            background-image:url("../images/Naas Court House.jpg");
+                                            background-repeat:no-repeat;
+                                            background-position:center;
+                                            width:100%;
+                                            overflow:hidden;
+                                        }
+
+                                        #stay-at-home{
+                                            color:#a8aaab;
+                                            background-color:rgba(0,0,.6);
+                                            width: 20%;
+                                            height:300px;
+                                            float:left;
+                                            padding:30px 0 0 10px;
+                                            border:2px solid white;
+                                            box-sizing:border-box;
+                                            }
+
+                                            #stay-at-home,#h2{
+                                                color:#a8aaab;
+                                            }
+                                       
+                        
+
+
                      
                      
                     
