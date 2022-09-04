@@ -11,61 +11,70 @@
   }
 
   
+  h1,h3{
+    font-family:Poppins, sans-serif;
+    text-transform:uppercase;
+    text-align:center;
+    letter-spacing:4px;
+    color:#2c88e2;
+  }
+  
   #nav{
     font-size:100%;
     letter-spacing: 4px;
+    font-weight:strong;
     }
 
-    nav a:hover{
+    #nav a:hover{
         border-bottom:1px solid #a8aaab;
     }
     #nav li{
         float:right;
         list-style-type: none;
         margin-right:20px;
-    }
-
-nav a {
+        
+         }
+      #nav a {
     text-decoration:none;
-    color:inherit;
-    }
+    color:#2c88e2;
+    font-weight:bold;
+  }
 
   
   
-    #coronavirus-2019-image{
+    .coronavirus-2019-image{
       height:600px;
       width:100%;
-      background:url("../images/th.jpg")no-repeat center center;
-      }
+      
+    }
     
-      coronavirus-2019{
+      #coronavirus-2019{
         height:600px;
-      }
+         width:100%;
+        }
+
   
     .active{
     border-bottom:1px solid #2c88e2;
   }
 
-  coronavirus-origin{
+                  #coronavirus-origin{
                   padding-top:30px;
                   width:33%;
                   float:left;
-                  background-color:#2c88e2;
+                  
                  }
 
-                 first-case-in-ireland{
-              
-                 padding-top:30px;
-                 width:33%;
-                 float:right;
-                 background-color:#a8aaab;
-                }
-                first-lockdown{
+                 #first-case-in-ireland{
+                  padding-top:30px;
                   width:33%;
-                  margin:0 auto;
+                 float:right;
+                 
                 }
+                #first-lockdown{
+                  padding-top:30px;
+                  width:33%;
+                  float:right;
+                   }
 
-
-   
-
-    
+                
