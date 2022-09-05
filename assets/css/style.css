@@ -81,10 +81,11 @@
                 }
 
                 #government-time-frame{
-                background-repeat:no-repeat;
+                background-image:url("..images/th.jpg");
+                background-repeat: no-repeat;
                 background-size:cover;
                 background-position:left;
                 width:100%;
                overflow:hidden;
-                
+                }
                 
