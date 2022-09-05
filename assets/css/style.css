@@ -84,14 +84,17 @@
                   padding-top:30px;
                   width:33%;
                  float:right;
+                 position:center;
                  color:#2c88e2;
                 }
                 #first-lockdown{
                   padding-top:30px;
                   width:33%;
                   float:right;
+                  position:center;
                   color:#2c88e2;
                 }
 
-               
-                
+             #government-time-frame{
+              background-repeat: no-repeat;
+             }
