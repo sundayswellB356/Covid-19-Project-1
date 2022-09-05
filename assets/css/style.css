@@ -75,8 +75,9 @@
                   padding-top:30px;
                   width:33%;
                   float:left;
-                
+                  color:#2c88e2;
                 }
+                
 
                 
 
@@ -96,5 +97,12 @@
                 }
 
              #government-time-frame{
-              background-repeat: no-repeat;
-             }
+              background-size:cover;
+              background-position:center;
+              width:100%;
+              overflow:hidden;
+              color:#2c88e2;
+              }
+
+             
+            
