@@ -21,8 +21,7 @@
   
   #nav{
     font-size:100%;
-    letter-spacing: 4px;
-    font-weight:strong;
+  font-weight:bold;
     }
 
     #nav a:hover{
@@ -42,17 +41,31 @@
 
   
   
-    .coronavirus-2019-image{
+    #coronavirus-2019-image{
       height:600px;
       width:100%;
-      
-    }
+      background-position: center;
+      animation-name:coronavirus-2019-image;
+      animation-duration:8s;
+      animation-fill-mode:pop-out;
+    
+      }
+      @keyframes coronavirus-2019-image{
+      from{
+        transform:scale(1);
+      }
+
+      to{
+        transform:scale(1.1);
+      }
+      }
+     
     
       #coronavirus-2019{
         height:600px;
          width:100%;
-        }
-
+         background-position: center;
+      }
   
     .active{
     border-bottom:1px solid #2c88e2;
@@ -80,24 +93,5 @@
                   color:#2c88e2;
                 }
 
-                #government-time-frame{
-                background-image:url('..assets/th.jpg');
-                background-repeat: no-repeat;
-                background-size:cover;
-                background-position:center;
-                width:100%;
-                overflow:hidden;
-                }
-                time-frame div{
-                  color:#2c88e2;
-                  background-color:rgba(168,170,171,.6);
-                  width:20%;
-                  height:150px;
-                  float:left;
-                  padding: 20px 0 0 5px;
-                  text-align:center;
-                  border:1px solid grey;
-                  box-sizing: border-box;
-                  }
-
+               
                 
