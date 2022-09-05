@@ -79,4 +79,12 @@
                   float:right;
                   color:#2c88e2;
                 }
+
+                #government-time-frame{
+                background-repeat:no-repeat;
+                background-size:cover;
+                background-position:left;
+                width:100%;
+               overflow:hidden;
+                
                 
