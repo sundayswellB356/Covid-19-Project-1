@@ -7,11 +7,11 @@
 }
 
   body{
-    font-family:Roboto, sans-serif;
+    font-family:Poppins, sans-serif;
   }
 
   
-  h1,h3{
+  .h1,h3{
     font-family:Poppins, sans-serif;
     text-transform:uppercase;
     text-align:center;
@@ -62,8 +62,10 @@
                   padding-top:30px;
                   width:33%;
                   float:left;
-                  
-                 }
+                
+                }
+
+                
 
                  #first-case-in-ireland{
                   padding-top:30px;
