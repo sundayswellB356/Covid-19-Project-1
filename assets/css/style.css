@@ -81,11 +81,23 @@
                 }
 
                 #government-time-frame{
-                background-image:url("..images/th.jpg");
+                background-image:url('..assets/th.jpg');
                 background-repeat: no-repeat;
                 background-size:cover;
-                background-position:left;
+                background-position:center;
                 width:100%;
-               overflow:hidden;
+                overflow:hidden;
                 }
+                time-frame div{
+                  color:#2c88e2;
+                  background-color:rgba(168,170,171,.6);
+                  width:20%;
+                  height:150px;
+                  float:left;
+                  padding: 20px 0 0 5px;
+                  text-align:center;
+                  border:1px solid grey;
+                  box-sizing: border-box;
+                  }
+
                 
