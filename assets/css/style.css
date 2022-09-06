@@ -42,8 +42,8 @@
   
     #coronavirus-2019-image{
     width:100%;
-      background:url("../images/th.jpg")no-repeat center center;
-      height:600px;
+      background:url('../images/1024px-2019-nCoV-CDC-23312_without_background.png')no-repeat center center;
+      height:800px;
       background-position: center;
       animation-name:coronavirus-2019-image;
       animation-duration:8s;
@@ -109,29 +109,45 @@
               overflow:hidden;
             }
 
-            
-              
-              .footer{
+            #time-frame div{
+              color:#2c88e2;
+              background-color:rgba(171,170,168,.8);
+              width:20%;
+              height:300px;
+              float:left;
+              padding:30px 0 0 10px;
+              text-align:center;
+              border:2px solid grey;
+              box-sizing: border-box;
+            }
+
+
+              footer{
                 height:150px;
-                }
+              }
 
-                .social-networks{
-                  text-align:center;
-                }
-
-              .social-networks>li{
+              .social-networks{
                 text-align:center;
               }
 
-              .social-networks i{
+              .social-networks > li{
+                display:inline;
+              }
+
+              .social-networks i {
                 font-size:160%;
                 margin:1%;
                 padding:5%;
-                color:#2c88e2;
-                }
+                color:#2c88e2
+              }
+              
+
+               
+              
+
+              
 
                 #symptoms-of-coronavirus{
-                
                 height:600px;
                 width:100%;
                 background:url('../images/th (2).jpg')no-repeat center center;
