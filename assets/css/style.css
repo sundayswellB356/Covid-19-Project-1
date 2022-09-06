@@ -14,8 +14,8 @@
   .h1{
     font-family:Roboto, sans-serif;
     text-transform:uppercase;
-    position:center;
-    text-align:center;
+    margin:0 auto;
+    
     color:#2c88e2;
   }
   
@@ -43,9 +43,9 @@
   
     #coronavirus-2019-image{
     width:100%;
-    
+     background:url("../images/pexels-photo-3992933.webp")no-repeat center center;
       height:600px;
-      background-position: center;
+      
       animation-name:coronavirus-2019-image;
       animation-duration:8s;
       animation-fill-mode:zoom;
@@ -86,20 +86,22 @@
                   #first-lockdown{
                   padding:30px;
                   width:33%;
-                  position:center;
+                  float:left;
                   color:#2c88e2;
                 }
 
                 #coronavirus-origin{
-                  padding-top:30px;
-                  position:center;
-                  width:33%;
+                height:600px;
+                float:left;
+                width:100%;
+                overflow:hidden;
                   
-                  position:center;
+                  
                   color:#2c88e2;
                   }
               
-               #government-time-frame-2019{
+             #government-time-frame-2019{
+             
               background-repeat:no-repeat;
               background-size:cover;
               background-position:center;
@@ -109,12 +111,12 @@
 
             #time-frame div{
               color:#2c88e2;
-              background-color:rgba(171,170,168,.8);
+              background-color:rgba(171,170,168,.6);
               width:20%;
               height:300px;
               float:left;
               padding:30px 0 0 10px;
-              text-align:center;
+              background-position:center;
               border:2px solid grey;
               box-sizing: border-box;
             }
@@ -151,22 +153,26 @@
                 }
                #symptoms{
                 height:600px;
+                float:left;
                 width:100%;
                 overflow:hidden;
                 
                 }
                 #our-economy{
                   width:33%;
-                  margin:0 auto;
+                  text-align:center;
+                
                 }
 
                 #front-line{
-                  width:33%;
-                  float:left;
+                height:600px;
+                float:left;
+                width:100%;
+                overflow:hidden
                 }
                 #front-line-staff{
                   width:33%;
-                  margin:0 auto;
+                  text-align:center;
                 }
                 .coronavirus-website{
                   width:60%;
@@ -200,12 +206,12 @@
                 }
 
                 p{
-                  text-align:right;
-                
+                  text-align:center;
+                  
                 }
 
                 h2{
-                  text-align:left;
+                  text-align:center;
                   
                 }
 
@@ -215,33 +221,16 @@
                   margin:5px 0;
                 }
                 #at-home{
-                  padding-top:30px;
                   width:33%;
-                  float:left;
+                  text-align:center;
                 }
-
                 #home-working{
-                  padding-top:30px;
-                  width:33%;
-                  position:center;
+                  width:60%;
+                  float:left;
+                  line-height:20px;
+                  text-align:right;
+                  margin-bottom:50px;
                 }
 
-                 .p center{
-                  text-align:center;
-                  color:#a8aaab;
-                }
-                .h1 center{
-                  text-align:center;
-                  color:#2c88e2;
-                }
-
-                .h2 center{
-                  text-align:center;
-                  color:#2c88e2;
-                }
-
-                
-                
               
-             
             
