@@ -42,7 +42,7 @@
   
     #coronavirus-2019-image{
     width:100%;
-      background-image:url('../images/th(3).jpg')no-repeat center center;
+      background:url("../images/th.jpg")no-repeat center center;
       height:600px;
       background-position: center;
       animation-name:coronavirus-2019-image;
@@ -78,22 +78,20 @@
                  #first-case-in-ireland{
                   padding-top:30px;
                   width:33%;
-                 float:right;
-                 position:center;
-                 color:#2c88e2;
-                }
-                #first-lockdown{
+                  float:right;
+                  color:#2c88e2;
+                  }
+                
+                  #first-lockdown{
                   padding-top:30px;
                   width:33%;
-                  float:left;
-                  position:center;
+                  margin:0 auto;
                   color:#2c88e2;
                 }
 
                 #coronavirus-origin{
                   padding-top:30px;
                   width:33%;
-                  float:left;
                   position:center;
                   color:#2c88e2;
                   }
@@ -146,5 +144,13 @@
                   margin:0 auto;
                 }
 
+                #front-line{
+                  width:33%;
+                  float:left;
+                }
+                #front-line-staff{
+                  width:33%;
+                  margin:0 auto;
+                }
              
             
