@@ -7,7 +7,7 @@
 }
 
   body{
-    font-family:Poppins, sans-serif;
+    font-family:Roboto,sans-serif;
   }
 
   
@@ -42,12 +42,13 @@
   
   
     #coronavirus-2019-image{
+      background-image:url("../images/th.jpg")no-repeat center center;
       height:600px;
       width:100%;
       background-position: center;
       animation-name:coronavirus-2019-image;
       animation-duration:8s;
-      animation-fill-mode:pop-out;
+      animation-fill-mode:zoom;
     
       }
       @keyframes coronavirus-2019-image{
@@ -103,6 +104,25 @@
               overflow:hidden;
               color:#2c88e2;
               }
+
+              .footer{
+                height:150px;
+                }
+
+                .social-networks{
+                  text-align:center;
+                }
+
+              .social-networks > li{
+                text-align:center;
+              }
+
+              .social-networks i{
+                font-size:160%;
+                margin:1%;
+                padding:5%;
+                color:#2c88e2;
+                }
 
              
             
