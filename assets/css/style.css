@@ -214,6 +214,17 @@
                   width:100%;
                   margin:5px 0;
                 }
+                #at-home{
+                  padding-top:30px;
+                  width:33%;
+                  float:left;
+                }
+
+                #home-working{
+                  padding-top:30px;
+                  width:33%;
+                  float:right;
+                }
                 
                 
                 
