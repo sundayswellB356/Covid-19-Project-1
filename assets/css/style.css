@@ -14,7 +14,6 @@
   .h1,h2{
     font-family:Poppins, sans-serif;
     text-transform:uppercase;
-    text-align:center;
     letter-spacing:4px;
     color:#2c88e2;
   }
@@ -42,9 +41,9 @@
   
   
     #coronavirus-2019-image{
-      background-image:url("../images/th.jpg")no-repeat center center;
+    width:100%;
+      background-image:url('../images/th(3).jpg')no-repeat center center;
       height:600px;
-      width:100%;
       background-position: center;
       animation-name:coronavirus-2019-image;
       animation-duration:8s;
@@ -62,7 +61,7 @@
       }
      
     
-      #coronavirus-2019{
+      .coronavirus-2019{
         height:600px;
          width:100%;
          background-position: center;
@@ -72,13 +71,7 @@
     border-bottom:1px solid #2c88e2;
   }
 
-                  #coronavirus-origin{
-                  padding-top:30px;
-                  width:33%;
-                  float:left;
-                  color:#2c88e2;
-                }
-                
+                  
 
                 
 
@@ -92,12 +85,23 @@
                 #first-lockdown{
                   padding-top:30px;
                   width:33%;
-                  float:right;
+                  float:left;
                   position:center;
                   color:#2c88e2;
                 }
 
-             #government-time-frame{
+                #coronavirus-origin{
+                  padding-top:30px;
+                  width:33%;
+                  float:left;
+                  position:center;
+                  color:#2c88e2;
+                  }
+              
+            
+            
+            
+              #government-time-frame{
               background-size:cover;
               background-position:center;
               width:100%;
@@ -128,7 +132,7 @@
                 
                 height:600px;
                 width:100%;
-                background:url()
+                background:url('../images/th (2).jpg')no-repeat center center;
                 overflow:hidden;
                 }
                #symptoms{
@@ -136,6 +140,10 @@
                 width:100%;
                 overflow:hidden;
                 
+                }
+                #our-economy{
+                  width:33%;
+                  margin:0 auto;
                 }
 
              
