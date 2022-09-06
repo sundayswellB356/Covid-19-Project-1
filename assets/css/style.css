@@ -7,19 +7,20 @@
 }
 
   body{
-    font-family:Roboto,sans-serif;
+    font-family:Poppins,sans-serif;
   }
 
   
-  .h1,h2{
-    font-family:Poppins, sans-serif;
+  .h1{
+    font-family:Roboto, sans-serif;
     text-transform:uppercase;
-    letter-spacing:4px;
+    position:center;
+    text-align:center;
     color:#2c88e2;
   }
   
   #nav{
-    font-size:100%;
+  font-size:100%;
   font-weight:bold;
     }
 
@@ -42,8 +43,8 @@
   
     #coronavirus-2019-image{
     width:100%;
-      background:url('../images/1024px-2019-nCoV-CDC-23312_without_background.png')no-repeat center center;
-      height:800px;
+    
+      height:600px;
       background-position: center;
       animation-name:coronavirus-2019-image;
       animation-duration:8s;
@@ -83,25 +84,22 @@
                   }
                 
                   #first-lockdown{
-                  padding-top:30px;
+                  padding:30px;
                   width:33%;
-                  margin:0 auto;
+                  position:center;
                   color:#2c88e2;
                 }
 
                 #coronavirus-origin{
                   padding-top:30px;
+                  position:center;
                   width:33%;
+                  
                   position:center;
                   color:#2c88e2;
                   }
               
-            
-            
-            
-              #government-time-frame-2019{
-
-              background-image:url('../images/th.jpg');
+               #government-time-frame-2019{
               background-repeat:no-repeat;
               background-size:cover;
               background-position:center;
@@ -145,9 +143,7 @@
                
               
 
-              
-
-                #symptoms-of-coronavirus{
+              #symptoms-of-coronavirus{
                 height:600px;
                 width:100%;
                 background:url('../images/th (2).jpg')no-repeat center center;
@@ -172,5 +168,55 @@
                   width:33%;
                   margin:0 auto;
                 }
+                .coronavirus-website{
+                  width:60%;
+                  float:right;
+                  line-height:20px;
+                  clear:both;
+                  margin-bottom:50px;
+                }
+
+                .coronavirus-wuhan{
+                  width:60%;
+                  float:left;
+                  line-height:20px;
+                  clear:both;
+                  margin-bottom:50px;
+                }
+                .first-lockdown-2019{
+                  width:60%;
+                  float:right;
+                  line-height:20px;
+                  clear:both;
+                  margin-bottom:50px;
+                }
+
+                #coronavirus-impact{
+                  width:60%;
+                  float:left;
+                  line-height:20px;
+                  text-align:right;
+                  margin-bottom:50px;
+                }
+
+                p{
+                  text-align:right;
+                
+                }
+
+                h2{
+                  text-align:left;
+                  
+                }
+
+                hr{
+                  border-top:1px solid#2c88e2;
+                  width:100%;
+                  margin:5px 0;
+                }
+                
+                
+                
+              
              
             
