@@ -99,14 +99,18 @@
             
             
             
-              #government-time-frame{
+              #government-time-frame-2019{
+
+              background-image:url('../images/th.jpg');
+              background-repeat:no-repeat;
               background-size:cover;
               background-position:center;
               width:100%;
               overflow:hidden;
-              color:#2c88e2;
-              }
+            }
 
+            
+              
               .footer{
                 height:150px;
                 }
