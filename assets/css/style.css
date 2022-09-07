@@ -43,8 +43,7 @@
   
     #coronavirus-2019-image{
     width:100%;
-     background:url("../images/pexels-photo-3992933.webp")no-repeat center center;
-      height:600px;
+    height:600px;
       
       animation-name:coronavirus-2019-image;
       animation-duration:8s;
@@ -221,16 +220,47 @@
                   margin:5px 0;
                 }
                 #at-home{
-                  width:33%;
-                  text-align:center;
+                  padding:30px;
+                    width:33%;
+                    position:left;
+                    color:#2c88e2;
+                    }
+                #home-schooling{
+                  height:600px;
+                  float:left;
+                  width:100%;
+                  overflow:hidden;
                 }
-                #home-working{
-                  width:60%;
+                
+                
+                
+                #working-at-home{
+                  height:600px;
+                  float:left;
+                  width:100%;
+                  overflow:hidden;
+                  }
+                  #remote-working{
+                    padding:30px;
+                    width:33%;
+                    position:left;
+                    color:#2c88e2;
+                  }
+                  #long-covid{
+                    width:60%;
+                    float:left;
+                    line-height:20px;
+                    text-align:right;
+                    margin-bottom:50px;
+                  }
+                  #anxiety{
+                   width:60%;
                   float:left;
                   line-height:20px;
                   text-align:right;
                   margin-bottom:50px;
-                }
-
+                  }
+                  
+                
               
             
