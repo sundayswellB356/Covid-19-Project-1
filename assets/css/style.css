@@ -105,18 +105,20 @@
                 clear:both;
                 margin-bottom:50px;
                 }
+               hr{
+                border-top:1px solid #2c88e2;
+                width:100%;
+                margin: 5px 0;
+            }
+               
                 #the-impact-on-our-economy{
                     border-top:1px solid #2c88e2;
                     width:100%;
                     margin:5px 0;
                 }
 
-                .government restrictions{
-                    width:60%;
-                    float:right;
-                    line-height:20px;
-                    clear:both;
-                    margin-bottom:50px;
+                .government-restrictions{
+                  
                     }
                     .government h2{
                         text-align:right;
@@ -124,8 +126,23 @@
                     .restrictions p{
                         text-align:right;
                     }
+                    #staff-impact{
+                        text-align:center;
+                        margin:20px 0;
+                    
+                    }
+                    #front-line-staff{
+                        text-align:center;
+                        margin:20px 0;
+                    }
 
-            
+                    .staff-impact{
+                    width:60%;
+                    float:right;
+                    line-height:20px;
+                    clear:both;
+                    margin-bottom:50px;
+                    }
 
 
 
