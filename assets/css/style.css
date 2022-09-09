@@ -47,14 +47,15 @@
             coronavirus-image{
                 height:600px;
                 width:100%;
-                background:url("../images/th.jpg")no-repeat center center;
+                background:url("../images/pexels-photo-3992933.webp")no-repeat center center;
             }
             #wash-your-hands{
                 height:600px;
                 width:100%;
                 overflow:hidden;
+                margin-left:30px;
                 
-            position:relative;
+                position:relative;
             }
 
             sanitise-santise{
@@ -75,6 +76,27 @@
                 
                 position:absolute;
             
+            }
+
+            #origin{
+                height:600px;
+            }
+
+            #wuhan{
+                padding-top:30px;
+                width:33%;
+                float:left;
+
+
+            }
+            origin-2019{
+                padding-top:30px;
+                width:33%;
+                float:right;
+            }
+            #wuhan-2019{
+                width:33%;
+                margin:0 auto;
             }
 
 
