@@ -197,6 +197,16 @@ long-covid {
     clear: both;
     margin-bottom: 50px
 }
+#photos and images{
+    clear:both;
+    line-height:0;
+    column-count:4;
+    column-gap:0;
+    }
+
+    #photos > images{
+        width:100%;
+    }
 
 
 
@@ -349,14 +359,4 @@ long-covid {
                 padding: 5px;
                 width: 100px;
             }
-            #photos and images{
-                clear:both;
-                line-height:0;
-                column-count:4;
-                column-gap:0;
-                }
-
-                #photos > images{
-                    width:100%;
-                }
-
+           
