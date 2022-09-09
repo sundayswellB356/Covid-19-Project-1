@@ -89,7 +89,7 @@
 
 
             }
-            origin-2019{
+            #origin-2019{
                 padding-top:30px;
                 width:33%;
                 float:right;
@@ -98,6 +98,34 @@
                 width:33%;
                 margin:0 auto;
             }
+            .economy{
+                width:60%;
+                float:right;
+                line-height:20px;
+                clear:both;
+                margin-bottom:50px;
+                }
+                #the-impact-on-our-economy{
+                    border-top:1px solid #2c88e2;
+                    width:100%;
+                    margin:5px 0;
+                }
+
+                .government restrictions{
+                    width:60%;
+                    float:right;
+                    line-height:20px;
+                    clear:both;
+                    margin-bottom:50px;
+                    }
+                    .government h2{
+                        text-align:right;
+                    }
+                    .restrictions p{
+                        text-align:right;
+                    }
+
+            
 
 
 
