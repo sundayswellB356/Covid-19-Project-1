@@ -1,177 +1,357 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swapfamily=Poppins:wght@300&display=swap" rel="stylesheet"> ');
 
-  *{
-    margin:0;
-    padding:0;
-    border:0;
-  }
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 
-  body{
-    font-family:Poppins, sans-serif;
-    font-weight:300;
-    color:#2c88e2;
+body {
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    color: #2c88e2;
+}
+
+#covid-19 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    font-size:110%;
+    letter-spacing: 4px;
+    color: #a8aaab;
+}
+
+#covid-2019 {
+    float: left;
+    font-size: 280%;
+}
+
+#stay-at-home {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#stay-at-home:hover {
+    border-bottom: 1px solid #2c88e2;
+}
+
+#stay-at-home li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#stay-at-home a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.active {
+    border-bottom: 1px solid #a8aaab;
+}
+
+coronavirus-image {
+    height: 600px;
+    width: 100%;
+
+}
+
+#wash-your-hands {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    margin-left: 30px;
+
+    position: relative
+}
+
+sanitise-santise {
+    color: #2c88e2;
+}
+
+sanitise {
+    font-size: 100%;
+    font-family: Poppins, sans-serif;
+    text-transform: uppercase;
+    text-align:center;
+    letter-spacing: 4px;
+    width: 300px;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgb(171, 170, 168, .6);
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+
+}
+
+#origin {
+    height: 600px;
+}
+
+#wuhan {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+
+
+}
+
+#origin-2019 {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#wuhan-2019 {
+    width: 33%;
+    margin: 0 auto;
+}
+
+.economy {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+hr {
+    border-top: 1px solid #2c88e2;
+    width: 100%;
+    margin: 5px 0;
+}
+
+#the-impact-on-our-economy {
+    border-top: 1px solid #2c88e2;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.government-restrictions {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.government h2 {
+    text-align: right;
+}
+
+.restrictions p {
+    text-align: right;
+}
+
+#staff-impact {
+    text-align: center;
+    margin: 20px 0;
+
+}
+
+#front-line-staff {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.staff-impact {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #2c88e2;
+}
+
+#anxiety {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #2c88e2;
+}
+
+long-covid {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* For larger to medium screens size from 1200px wide and down */
+@media screen and (max-wdith:1200px) {}
+
+#nav {
+    width: 65%;
+    height: 1200px;
+    margin: 0 auto;
+}
+
+#coronavirus {
+    padding: 30px 0;
+    margin: 0;
+}
+
+stay-at-home {
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+
+santise {
+    clear: both;
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+
+wear-your-mask {
+    width: 100%;
+    clear: both;
+    height: 150px;
+    padding: 0;
+}
+
+hr {
+    display: none
+}
+
+@media screen and (max-width:950px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
     }
 
-    #covid-19{
-        font-family:Roboto, sans-serif;
-        text-transform:uppercase;
-        letter-spacing:4px;
-        color:#a8aaab;
+    #cover-text {
+        left: 0;
+
     }
 
-    #covid-2019{
-        float:left;
-        font-size:280%;
+    #coronavirus-2019 {
+        width: 90%;
+        height: 200px;
+        margin: 0 auto;
+    }
+
+    vaccine {
+        width: inherit;
+    }
+
+    vaccine-astra-zenca {
+        width: 100%;
+        text-align: center;
+
+    }
+
+    vaccine-moderna {
+        text-align: center;
+        padding: 0 20px;
+    }
+
+    @media screen and (max-width:800px) {
+        #photos {
+            column-count: 2;
         }
 
-        #stay-at-home{
-            font-size:110%;
-            letter-spacing:4px;
-            }
-
-           #stay-at-home:hover{
-            border-bottom:1px solid #2c88e2;
-           }
-            #stay-at-home li{
-                float:right;
-                list-style-type:none;
-                margin-right:30px;
-            }
-            #stay-at-home a{
-                text-decoration:none;
-                color:inherit;
-            }
-            .active{
-                border-bottom:1px solid #a8aaab;
-            }
-            coronavirus-image{
-                height:600px;
-                width:100%;
-                background:url("../images/pexels-photo-3992933.webp")no-repeat center center;
-            }
-            #wash-your-hands{
-                height:600px;
-                width:100%;
-                overflow:hidden;
-                margin-left:30px;
-           
-                position:relative
-            }
-
-            sanitise-santise{
-                color:#2c88e2;
-                }
-            sanitise{
-                font-size:130%;
-                font-family:Poppins, sans-serif;
-                text-transform:uppercase;
-                letter-spacing:4px;
-                width:300px;
-                height:200px;
-                padding-top:40px;
-                padding-left:10px;
-                background-color:rgb(171,170,168,.6);
-                bottom:30px;
-                right:150px;
-                
-                position:absolute;
-            
-            }
-
-            #origin{
-                height:600px;
-            }
-
-            #wuhan{
-                padding-top:30px;
-                width:33%;
-                float:left;
-
-
-            }
-            #origin-2019{
-                padding-top:30px;
-                width:33%;
-                float:right;
-            }
-            #wuhan-2019{
-                width:33%;
-                margin:0 auto;
-            }
-            .economy{
-                width:60%;
-                float:right;
-                line-height:20px;
-                clear:both;
-                margin-bottom:50px;
-                }
-               hr{
-                border-top:1px solid #2c88e2;
-                width:100%;
-                margin: 5px 0;
-            }
-               
-                #the-impact-on-our-economy{
-                    border-top:1px solid #2c88e2;
-                    width:100%;
-                    margin:5px 0;
-                }
-
-                .government-restrictions{
-                    width:60%;
-                    float:right;
-                    line-height:20px;
-                    clear:both;
-                    margin-bottom:50px;
-                    }
-                    .government h2{
-                        text-align:right;
-                    }
-                    .restrictions p{
-                        text-align:right;
-                    }
-                    #staff-impact{
-                        text-align:center;
-                        margin:20px 0;
-                    
-                    }
-                    #front-line-staff{
-                        text-align:center;
-                        margin:20px 0;
-                    }
-
-                    .staff-impact{
-                    width:60%;
-                    float:right;
-                    line-height:20px;
-                    clear:both;
-                    margin-bottom:50px;
-                    }
-
-                    #government-time-frame{
-                        background-image:url('../images/th.jpg');
-                        background-repeat:no-repeat;
-                        background-size:cover;
-                        background-position:center;
-                        width:100%;
-                        overflow:hidden;
-                        }
-
-                        #time-frame div{
-                            color:2c88e2;
-                            background-color:rgb(171,170,171,.6);
-                            width:20%;
-                            height:300px;
-                            float:left;
-                            padding:30px 0 0 10px;
-                            text-align:center;
-                            border:2px solid grey;
-                            box-sizing: border-box;
-                        }
-                        
-                        
-
-
-
-
-  
+        #images{
+            border:1px solid #a8aaab;
+            border-radius:4px;
+            padding:5px;
+            width:100px;
+        
+        
+        }
