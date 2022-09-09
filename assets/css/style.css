@@ -24,7 +24,31 @@
         font-size:280%;
         }
 
-        
+        #stay-at-home{
+            font-size:110%;
+            letter-spacing:4px;
+            }
+
+           #stay-at-home:hover{
+            border-bottom:1px solid #2c88e2;
+           }
+            #stay-at-home li{
+                float:right;
+                list-style-type:none;
+                margin-right:30px;
+            }
+            #stay-at-home a{
+                text-decoration:none;
+                color:inherit;
+            }
+            .active{
+                border-bottom:1px solid #a8aaab;
+            }
+            coronavirus-image{
+                height:600px;
+                width:100%;
+                background:url("../images/th.jpg")no-repeat center center;
+            }
 
 
 
