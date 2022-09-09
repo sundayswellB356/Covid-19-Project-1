@@ -49,6 +49,34 @@
                 width:100%;
                 background:url("../images/th.jpg")no-repeat center center;
             }
+            #wash-your-hands{
+                height:600px;
+                width:100%;
+                overflow:hidden;
+                
+            position:relative;
+            }
+
+            sanitise-santise{
+                color:#2c88e2;
+            }
+            sanitise{
+                font-size:130%;
+                font-family:Poppins, sans-serif;
+                text-transform:uppercase;
+                letter-spacing:4px;
+                width:300px;
+                height:200px;
+                padding-top:40px;
+                padding-left:10px;
+                background-color:rgb(171,170,168,.6);
+                bottom:30px;
+                right:150px;
+                
+                position:absolute;
+            
+            }
+
 
 
 
