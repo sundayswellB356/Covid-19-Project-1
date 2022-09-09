@@ -10,7 +10,21 @@
     font-family:Poppins, sans-serif;
     font-weight:300;
     color:#2c88e2;
-  }
+    }
+
+    #covid-19{
+        font-family:Roboto, sans-serif;
+        text-transform:uppercase;
+        letter-spacing:4px;
+        color:#a8aaab;
+    }
+
+    #covid-2019{
+        float:left;
+        font-size:280%;
+        }
+
+        
 
 
 
