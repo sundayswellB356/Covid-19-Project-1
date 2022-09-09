@@ -54,13 +54,13 @@
                 width:100%;
                 overflow:hidden;
                 margin-left:30px;
-                
-                position:relative;
+           
+                position:relative
             }
 
             sanitise-santise{
                 color:#2c88e2;
-            }
+                }
             sanitise{
                 font-size:130%;
                 font-family:Poppins, sans-serif;
@@ -118,7 +118,11 @@
                 }
 
                 .government-restrictions{
-                  
+                    width:60%;
+                    float:right;
+                    line-height:20px;
+                    clear:both;
+                    margin-bottom:50px;
                     }
                     .government h2{
                         text-align:right;
@@ -143,6 +147,29 @@
                     clear:both;
                     margin-bottom:50px;
                     }
+
+                    #government-time-frame{
+                        background-image:url('../images/th.jpg');
+                        background-repeat:no-repeat;
+                        background-size:cover;
+                        background-position:center;
+                        width:100%;
+                        overflow:hidden;
+                        }
+
+                        #time-frame div{
+                            color:2c88e2;
+                            background-color:rgb(171,170,171,.6);
+                            width:20%;
+                            height:300px;
+                            float:left;
+                            padding:30px 0 0 10px;
+                            text-align:center;
+                            border:2px solid grey;
+                            box-sizing: border-box;
+                        }
+                        
+                        
 
 
 
