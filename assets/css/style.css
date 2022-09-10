@@ -249,37 +249,74 @@ footer {
 
 
 
+/*Medica queries*/
+@media screen and(max-width:1200px){
+    #stay-at-home{
+        width:65%;
+    }
+    #nav{
+        padding:30px 0;
+        }
 
+        #left-about #right-about{
+            width:100%;
+            float:left;
+            padding:0;
+            }
+            center-about{
+                clear:both;
+                width:100%;
+                float:left;
+                padding:0;
+            }
 
+            time-frame > div{
+                width:100%;
+                clear:both;
+                height: 150px;
+                padding:0;
+            }
 
+            hr{
+                display:none;
+            }
+@media screen and (max-width:950px){
 
+    #nav{
+        clear:left;
+        float:left;
+        margin-left:30px;
+        margin-bottom:20px;
+        line-height:25px;
+    }
 
+    #cover-text{
+        left:0;
+        }
 
+        #coronavirus-2019{
+            width:90%;
+            height:1200px;
+            margin: 0 auto;
+            }
 
+            .left-about-heading, .right-about-heading{
+                width:inherit;
+            }
 
+            .left-about-heading h2,.right-about-heading h2{
+                width:100%;
+                text-align:center;
+                }
+                .left-about-heading p,.right-about-heading p{
+                  text-align:center;
+                  padding: 0 20px;
+                }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                @media screen and (max-width:800px){
+                    #photos{
+                        column-count:2;
+                    }
 
 
 
