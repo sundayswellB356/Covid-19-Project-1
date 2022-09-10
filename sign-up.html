@@ -10,55 +10,51 @@
 </head>
 <body>
 <header>
-  
-<section class="form">
+  <nav>
+    <ul id="nav">
+           <li>
+           <a href="sign-up">Sign up</a>
+           </li>  
+           <li>
+           <a href="mental-health">Mental Health</a>
+           </li>  
+          
+           <li>
+           <a href="index.html"class="active">Home</a>      
+        </li>     
+       </ul>
+
+
+
+
+  <section class="form">
 <div id="sign-up">
 <h1>Please Sign Up If You Need To Talk</h1>
 <img src="https://tse3.mm.bing.net/th?id=OIP.HdSPto6SIjyPGCPdCtmaWwHaHa&pid=Api&P=0img"/>
 <hr>
-form action="action_page.php"></form>
-<div class="container">
-  <h1>Register</h1>
-<p>Please Sign In</p>
-
-
-<label for="">First Name</label>
-<input type="text"placeholder=""name= "firstname"  id="firstname"required>
-<br>
-<label for="lastname">Last Name</label>
-<input type="text"placeholder=""name="lastname"id="lastname"required>
-<br>
-<label for="">Email</label>
-<input type="text"placeholder=""name="email"id="email"required>
-<br>
-<label for="password">Password</label>
-<input type="text"placeholder=""name="password"id="password"required>
-<br>
-<input type="radio"name="radio button"value="">
-<input type="radio"name="radio button"value="">
-<br>
-<input type="submit"value="submit">
-</form>
-</div>
-</div>
-  </section>
+<section class="form-section">
+  <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
+      <h2>Let's get you signed up! <i class="fas fa-heartbeat"></i> </h2>
+      <label for="fname">First Name</label>
+      <input id="fname" class="text-input" type="text" name="first_name" required />
+      <label for="lname">Last Name</label>
+      <input id="lname" class="text-input" type="text"  name="last_name" required />
+      <label for="email">Email Address</label>
+      <input id="email" class="text-input" type="email" name="email_address" required/>
+      <label for="road">Road</label>
+      <input id="road" type="radio" name ="running_preference" value="road" required/>
+      <label for="trail">Trail</label>
+      <input id="trail" type="radio" name="running_preference" value="trail"/>
+      <label for="both">Both</label>
+      <input id="both" type="radio" name="running_preference" value="both"/>
+      <input class="join-button"  type="submit" value="Let's Run!"/>
+      </form>
+    </section>
   
   
   
   
-    <nav>
- <ul id="nav">
-        <li>
-        <a href="sign-up">Sign up</a>
-        </li>  
-        <li>
-        <a href="mental-health">Mental Health</a>
-        </li>  
-       
-        <li>
-        <a href="index.html"class="active">Home</a>      
-     </li>     
-    </ul>
+    
       
       <footer>
   <ul class="social-networks">

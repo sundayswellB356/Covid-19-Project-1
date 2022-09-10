@@ -19,28 +19,31 @@ body {
     letter-spacing: 4px;
     color: #a8aaab;
 }
-
 #covid-2019 {
-    float: left;
-    font-size: 280%;
-}
-
-#stay-at-home {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
     font-size: 110%;
     letter-spacing: 4px;
+    color: #a8aaab;
 }
 
-#stay-at-home:hover {
+
+#nav {
+    font-size: 100%;
+    letter-spacing: 4px;
+    }
+
+    #nav:hover {
     border-bottom: 1px solid #2c88e2;
 }
 
-#stay-at-home li {
+#nav li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
 }
 
-#stay-at-home a {
+#nav a {
     text-decoration: none;
     color: inherit;
 }
@@ -124,7 +127,7 @@ hr {
 }
 
 #the-impact-on-our-economy {
-    border-top: 1px solid #2c88e2;
+    border-top: 1px solid #a8aaab;
     width: 100%;
     margin: 5px 0;
 }
@@ -190,15 +193,25 @@ footer {
     color: #2c88e2;
 }
 
-long-covid {
-    width: 60%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px
+#long-covid {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #2c88e2;
 }
 
-#photos and images {
+
+
+
+#long-covid h2{
+    text-align:center;
+}
+
+#long-covid p{
+    text-align:center;
+}
+
+#photos-images {
     clear: both;
     line-height: 0;
     column-count: 4;
@@ -207,155 +220,68 @@ long-covid {
 
 #photos>images {
     width: 100%;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* For larger to medium screens size from 1200px wide and down */
-@media screen and (max-wdith:1200px) {
-
-    #nav {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
+   float:right;
     }
 
-    #coronavirus {
-        padding: 30px 0;
-        margin: 0;
+#remote-working{
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
     }
-
-    stay-at-home {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    santise {
+    #symptoms-of-cornavirus{
+        width: 60%;
+        float: right;
+        line-height: 20px;
         clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
+        margin-bottom: 50px;
+        }
+        
+    #iframe{
+        width:100%;
     }
+        
 
-    wear-your-mask {
-        width: 100%;
-        clear: both;
-        height: 150px;
-        padding: 0;
-    }
 
-    hr {
-        display: none
-    }
 
-    @media screen and (max-width:950px) {
 
-        #menu {
-            clear: left;
-            float: left;
-            margin-left: 30px;
-            margin-bottom: 20px;
-            line-height: 25px;
-        }
 
-        #cover-text {
-            left: 0;
 
-        }
 
-        #coronavirus-2019 {
-            width: 90%;
-            height: 200px;
-            margin: 0 auto;
-        }
 
-        vaccine {
-            width: inherit;
-        }
 
-        vaccine-astra-zenca {
-            width: 100%;
-            text-align: center;
 
-        }
 
-        vaccine-moderna {
-            text-align: center;
-            padding: 0 20px;
-        }
 
-        @media screen and (max-width:800px) {}
 
-        #photos {
-            column-count: 2;
-        }
 
-        #images {
-            border: 1px solid #a8aaab;
-            border-radius: 4px;
-            padding: 5px;
-            width: 100px;
-            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
