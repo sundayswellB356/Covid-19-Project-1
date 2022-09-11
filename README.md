@@ -2,7 +2,7 @@ Readme Document for Project One Portfolio
 
 The Coronavirus 2019 And beyond!
 
-Maeve Brophy.
+Maeve Brophy
 Introduction To My Project 1
 
 The reasoning behind my reason for doing this project was. The impact on everyday restrictions on people’s lives. 
@@ -29,14 +29,14 @@ Section 5:	The symptoms of Coronavirus 2019.
 I also brought in a header section, proceeded by a footer section. I also incorporated images, and various videos, that both Government and Medical teams, updated us on all aspects of the progression of the Coronavirus 19. 
 
 Home Page
-
+assets/images/2022-09-11 (7).png
 I decided on the homepage. I will use sub-sections, and then my main headings. This gives a better, variety to my main page. I need to keep the reader interested, in all I have to offer as regards the whole impact and devastation that the Coronavirus 2019 impacted on the Irish economy. 
 My main sections I created <h1></h1>. I gave them the main priority, given the fact that they created an insight into the project. 
 I then created <h2></h2> for my sub-sections. 
 I also implemented <p></p> into my main-sections, and I created a <hr>. I also brought in YouTube video and images. I brought in <alt> on all my images, but create awareness for people with either, visual impairment or people with disability. 
 
 Mental Health Page 2
-
+assets/images/2022-09-11 (8).png
 The second page, I created I implemented the following sections:
 Working remotely from home. 
 The impact that Coronavirus 2019 on people’s mental health.
@@ -48,7 +48,7 @@ The Impact Coronavirus had on people’s mental health.
 I brought in you tube videos given an insight, working from home. I brought in a graph showing how the various lockdown measures had on Coronavirus 2019.
 
 The Signup Page 3
-
+assets/images/2022-09-11 (9).png
 I brought in an image within keeping with my project. I did my form up and styled it in CSS. I kept my consistency as regards my fonts and colours that I had chosen before I started my project. 
 
 Design Features
@@ -67,7 +67,8 @@ The Main Features Of Project 1
 Testing
 I have used Lighthouse to assess my accessiblity of my code and off my project 1 itself. 
 
-assets/images/2022-09-10.png
+assets/images/2022-09-11 (3).png
+
 
 I used the following Research:
 
