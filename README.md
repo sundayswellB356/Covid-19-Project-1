@@ -4,6 +4,7 @@ The Coronavirus 2019 And beyond!
 
 Maeve Brophy.
 Introduction To My Project 1
+
 The reasoning behind my reason for doing this project was. The impact on everyday restrictions on people’s lives. 
 
 As humans been confined, and told to lock-down, due to a pandemic is alien to us humans. I witnessed losing loved-ones, and having to stand outside during their funeral, a very upsetting position to be in. 
@@ -17,7 +18,7 @@ The Timeframe for Economic Recovery Our Government Put in Place.
 The Impact of Our Mental Health during and after restrictions were lifted. 
 The Long-Term affect that having the virus created. 
 
-The Structure Plane:
+The Structure Section:
 I setup sections in my project.
 Section 1:	Where Coronavirus Originated From?
 Section 2:	Our Government’s Timeframe to Recovery.
@@ -46,9 +47,11 @@ The Impact Coronavirus had on people’s mental health.
 
 I brought in you tube videos given an insight, working from home. I brought in a graph showing how the various lockdown measures had on Coronavirus 2019.
 
-The Signup Page
+The Signup Page 3
+
 I brought in an image within keeping with my project. I did my form up and styled it in CSS. I kept my consistency as regards my fonts and colours that I had chosen before I started my project. 
 
+Design Features
 Responsive Website
 
 I added responsive dimensions, to make my website responsive. I added dimensions from the header to the footer. My website now is responsive to the following:
@@ -56,9 +59,29 @@ iPad Air
 iPhone Se
 Desktop.
 
-Features
-I have completed 
+Signup-page
+I have completed my sign-up page. I used my fonts and colors, that I have used throughout this project. I brought a Coronavirus poster, as a backdrop to my sign-up project. 
+I also used a hover approach, when you go to fill in your personal details. 
 
+The Main Features Of Project 1
+Testing
+I have used Lighthouse to assess my accessiblity of my code and off my project 1 itself. 
+
+assets/images/2022-09-10.png
+
+I used the following Research:
+
+The World Health Organisation.
+The Ersi on economy
+I brought my fonts in from Google Fonts.
+I brought the following hex code colors from Colormind:
+#2c88e2
+#a8aaab.
+I also brought in some Youtube material:
+The first Youtube was where do Medical teams think the Coronavirus originated from?
+The St.Patrick's day lockdown, by Leo Varadkar. 
+I also brought images in from both pexels, and pixabay free images. 
+I also used content from Wikipedia. 
 
 
 
