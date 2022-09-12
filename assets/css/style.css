@@ -140,6 +140,9 @@ hr {
     clear: both;
     margin-bottom: 50px;
 }
+header {
+    height: 150px;
+}
 
 .government h2 {
     text-align: right;
@@ -179,7 +182,7 @@ footer {
                 padding:30px;
             }
 
-            #paragraph{
+            #p{
                 font-family:Roboto, sans-serif;
                 border:2px solid darkslategray;
                 padding:30px;
@@ -340,14 +343,14 @@ button:hover {
     padding: 0;
 }
 
-center-about {
+#center-about {
     clear: both;
     width: 100%;
     float: left;
     padding: 0;
 }
 
-time-frame>div {
+#time-frame> div {
     width: 100%;
     clear: both;
     height: 150px;
