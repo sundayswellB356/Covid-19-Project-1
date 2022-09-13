@@ -327,11 +327,11 @@ button:hover {
 
 
 
-@media screen and(max-width:1200px) {
+@media screen and (max-width:1200px){
     #stay-at-home {
-        width: 65%;
-    }
-}
+        width:65%;
+        }
+      
 
 #nav {
     padding: 30px 0;
@@ -399,9 +399,10 @@ hr {
     padding: 0 20px;
 }
 
-@media screen and (max-width:800px) {
-    #photos {
+@media screen and(max-width:800px){
+    #photos{ 
         column-count: 2;
         box-sizing: border-box
-    }
-}
+        }
+        }
+    
