@@ -15,7 +15,7 @@ The origins of The Coronavirus 2019
 On our Front-line Staff.
 The Impact of our Economy. 
 The Impact of Our Mental Health during and after restrictions were lifted. 
-The Long-Term affect that having the virus created. 
+The Long-Term affects that having the virus created. 
 
 The Structure Section:
 I setup sections in my project.
@@ -28,7 +28,7 @@ Section 4:	The symptoms of Coronavirus 2019.
 I also brought in a header section, proceeded by a footer section. I also incorporated images, and various videos, that both Government and Medical teams, updated us on all aspects of the progression of the Coronavirus 19. 
 
 Home Page
-("../images/Image.jpg")
+!["2022-09-13"]("/images/"2022-09-13-001.jpg")
 I decided on the homepage. I will use sub-sections, and then my main headings. This gives a better, variety to my main page. I need to keep the reader interested, in all I have to offer as regards the whole impact and devastation that the Coronavirus 2019 impacted on the Irish economy. 
 My main sections I created <h1></h1>. I gave them the main priority, given the fact that they created an insight into the project. 
 I then created <h2></h2> for my sub-sections. 
@@ -48,29 +48,25 @@ The Impact Coronavirus had on people’s mental health.
 I brought in you tube videos given an insight, working from home. I brought in a graph showing how the various lockdown measures had on Coronavirus 2019.
 
 The Signup Page 3
+!["2022-09-13"]("/images/2022-09-13 (1).png")
 I brought in an image within keeping with my project. I did my form up and styled it in CSS. I kept my consistency as regards my fonts and colours that I had chosen before I started my project. 
 
 Design Features
 Responsive Website
-
+!["2022-09-13"]("/images/2022-09-13 (4).png/")
 I added responsive dimensions, to make my website responsive. I added dimensions from the header to the footer. My website now is responsive to the following:
 
-iPad Air assets/images/2022-09-12 (1).png
+iPad Air 
 
-iPhone Se assets/images/2022-09-12 (2).png
+iPhone Se
 
 
-Android Galaxy assets/images/2022-09-12 (3).png
+Android Galaxy
 
-Signup-page
-("../images/2022-09-13 (1).png")
-
-I have completed my sign-up page. I used my fonts and colors, that I have used throughout this project. I brought a Coronavirus poster, as a backdrop to my sign-up project. 
-I also used a hover approach, when you go to fill in your personal details. 
 
 The Main Features Of Project 1
 Testing
-("../images/2022-09-13 (4).png")
+
 I have used Lighthouse to assess my accessiblity of my code and off my project 1 itself. 
 
 
