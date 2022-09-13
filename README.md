@@ -27,7 +27,7 @@ Section 4:	The symptoms of Coronavirus 2019.
 I also brought in a header section, proceeded by a footer section. I also incorporated images, and various videos, that both Government and Medical teams, updated us on all aspects of the progression of the Coronavirus 19. 
 
 Home Page
-
+("../images/2022-09-13 (6).png")
 I decided on the homepage. I will use sub-sections, and then my main headings. This gives a better, variety to my main page. I need to keep the reader interested, in all I have to offer as regards the whole impact and devastation that the Coronavirus 2019 impacted on the Irish economy. 
 My main sections I created <h1></h1>. I gave them the main priority, given the fact that they created an insight into the project. 
 I then created <h2></h2> for my sub-sections. 
