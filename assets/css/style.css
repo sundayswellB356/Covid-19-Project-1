@@ -393,20 +393,24 @@ hr {
     text-align: center;
 }
 
-.left-about-heading p,
-.right-about-heading p {
-    text-align: center;
-    padding: 0 20px;
+
+.left-about-heading p, .rigth-about-heading p{
+        text-align: center;
+        padding: 0 20px;
+        }
+
+        #photos{
+            column-count:3;
+            }
+
+            @media screen and (max-width:800px){
+                #photos{
+                    column:count 2;
+                }
+            }
+    @media only screen and (max-width: 600px){
+    body {
+    background:url("https://images.pexels.com/photos/5863397/pexels-photo-5863397.jpeg?auto=compress&cs=tinysrgb&w=1600")no-repeat center center;
+    }
 }
 
-@media screen and(max-width:800px){
-    #photos{ 
-        column-count: 2;
-        box-sizing: border-box
-        }
-     }
-     @media only screen and (max-width: 600px){
-        body {
-        background:url("https://images.pexels.com/photos/5863397/pexels-photo-5863397.jpeg?auto=compress&cs=tinysrgb&w=1600")
-        }
-     }

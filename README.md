@@ -23,11 +23,11 @@ Section 1:	Where Coronavirus Originated From?
 Section 2:	Our Economy and the Impact Coronavirus 19 had.
 Section 3:	The Coronavirus impact on our Front-line staff, and hospitals.
 Section 4:	The symptoms of Coronavirus 2019.
-
+("../images/001.jpg")
 I also brought in a header section, proceeded by a footer section. I also incorporated images, and various videos, that both Government and Medical teams, updated us on all aspects of the progression of the Coronavirus 19. 
 
 Home Page
-assets/images/2022-09-11 (7).png
+
 I decided on the homepage. I will use sub-sections, and then my main headings. This gives a better, variety to my main page. I need to keep the reader interested, in all I have to offer as regards the whole impact and devastation that the Coronavirus 2019 impacted on the Irish economy. 
 My main sections I created <h1></h1>. I gave them the main priority, given the fact that they created an insight into the project. 
 I then created <h2></h2> for my sub-sections. 
@@ -35,7 +35,7 @@ I also implemented <p></p> into my main-sections, and I created a <hr>. I also b
 
 
 Mental Health Page 2
-assets/images/2022-09-11 (8).png
+("../images/2022-09-12 (7).png")
 The second page, I created I implemented the following sections:
 Working remotely from home. 
 The impact that Coronavirus 2019 on people’s mental health.
@@ -47,7 +47,6 @@ The Impact Coronavirus had on people’s mental health.
 I brought in you tube videos given an insight, working from home. I brought in a graph showing how the various lockdown measures had on Coronavirus 2019.
 
 The Signup Page 3
-assets/images/2022-09-11 (9).png
 I brought in an image within keeping with my project. I did my form up and styled it in CSS. I kept my consistency as regards my fonts and colours that I had chosen before I started my project. 
 
 Design Features
@@ -63,11 +62,14 @@ iPhone Se assets/images/2022-09-12 (2).png
 Android Galaxy assets/images/2022-09-12 (3).png
 
 Signup-page
+("../images/2022-09-13 (1).png")
+
 I have completed my sign-up page. I used my fonts and colors, that I have used throughout this project. I brought a Coronavirus poster, as a backdrop to my sign-up project. 
 I also used a hover approach, when you go to fill in your personal details. 
 
 The Main Features Of Project 1
 Testing
+("../images/2022-09-13 (4).png")
 I have used Lighthouse to assess my accessiblity of my code and off my project 1 itself. 
 
 
