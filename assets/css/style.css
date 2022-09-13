@@ -399,12 +399,12 @@ hr {
         }
 
         #photos{
-            column-count:3;
+            columns:3;
             }
 
             @media screen and (max-width:800px){
                 #photos{
-                    column:count 2;
+                    columns: 2;
                 }
             }
     @media only screen and (max-width: 600px){
@@ -412,4 +412,6 @@ hr {
     background:url("https://images.pexels.com/photos/5863397/pexels-photo-5863397.jpeg?auto=compress&cs=tinysrgb&w=1600")no-repeat center center;
     }
 }
-
+iframe{
+    border-width: 0px;
+}
