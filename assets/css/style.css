@@ -407,6 +407,6 @@ hr {
      }
      @media only screen and (max-width: 600px){
         body {
-   background:url("https://images.pexels.com/photos/5863397/pexels-photo-5863397.jpeg?auto=compress&cs=tinysrgb&w=1600")
+        background:url("https://images.pexels.com/photos/5863397/pexels-photo-5863397.jpeg?auto=compress&cs=tinysrgb&w=1600")
         }
-      }
+     }
