@@ -32,9 +32,9 @@ body {
 #nav {
     font-size: 100%;
     letter-spacing: 4px;
-}
+   }
 
-#nav:hover {
+   #nav:hover {
     border-bottom: 1px solid #2c88e2;
 }
 
@@ -46,10 +46,10 @@ body {
 
 #nav a {
     text-decoration: none;
-    color: inherit;
-}
+    color: inherit;   
+     }
 
-.active {
+     .active {
     border-bottom: 1px solid darkslategray;
 }
 
@@ -142,7 +142,9 @@ hr {
 }
 .header {
     height: 150px;
+    text-align:center;
 }
+
 
 .government h2 {
     text-align: right;
