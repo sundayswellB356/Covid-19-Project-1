@@ -28,6 +28,8 @@ Section 4:	The symptoms of Coronavirus 2019.
 I also brought in a header section, proceeded by a footer section. I also incorporated images, and various videos, that both Government and Medical teams, updated us on all aspects of the progression of the Coronavirus 19. 
 
 Home Page
+!["2022-09-14"]("/images/2022-09-14.png")
+
 !["2022-09-13"]("/images/"2022-09-13-001.jpg")
 I decided on the homepage. I will use sub-sections, and then my main headings. This gives a better, variety to my main page. I need to keep the reader interested, in all I have to offer as regards the whole impact and devastation that the Coronavirus 2019 impacted on the Irish economy. 
 My main sections I created <h1></h1>. I gave them the main priority, given the fact that they created an insight into the project. 
@@ -56,19 +58,19 @@ Responsive Website
 !["2022-09-13"]("/images/2022-09-13 (4).png/")
 I added responsive dimensions, to make my website responsive. I added dimensions from the header to the footer. My website now is responsive to the following:
 
-iPad Air 
+iPad Air !["2022-09-14"]("/images/2022-09-14 (1).png")
 
-iPhone Se
+iPhone Se !["2022-09-14"]("/images/2022-09-14 (2).png")
 
 
-Android Galaxy
+Android Galaxy !["2022-09-14"]("/images/2022-09-14 (3).png")
 
 
 The Main Features Of Project 1
 Testing
 
 I have used Lighthouse to assess my accessiblity of my code and off my project 1 itself. 
-
+!["2022-09-14"]("/images/2022-09-14 (4).png")
 
 
 I had found a red curly squiggle. I went back and checked my code. I found the answer to this issue. I needed to insert a curly brace, when I did the 
@@ -85,6 +87,11 @@ The steps I took in deploying my project are as follows:
 6. Select main
 7. Once selected Branch main click save.
 8. Once your project is deployed you will receive https://project name.github.io/covid project.
+
+
+Css Validation
+I have completed my full Css Validation. I have the following result here:
+!["2022-09-13"]("/images/2022-09-13 (9).png")
 
 
 I used the following Research:
