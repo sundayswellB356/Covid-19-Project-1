@@ -93,8 +93,12 @@ Css Validation
 I have completed my full Css Validation. I have the following result here:
 !["2022-09-13"]("/images/2022-09-13 (9).png")
 
+HTMl Validation
+I have just completed my validation for Home Page and Mental Health Page:
+I used the following validations:
 
-I used the following Research:
+Homepage:!["2022-09-14"]("/images/2022-09-14 (8).png")
+Mental Health:!["2022-09-14"]("/images/2022-09-14 (7).png")
 
 The World Health Organisation.
 The Ersi on economy
