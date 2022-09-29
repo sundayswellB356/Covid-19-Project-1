@@ -13,12 +13,16 @@
     color:#2c88e2;
 }
 header{
-    color:#2c88e2;
+    color:gray;
+    font-size:20px;
     padding:20px;
 }
-h1{
-    color:#2c88e2;
+h1,h2{
+    color:gray;
+    font-size:20px;
     text-align:center;
+    font-weight:bold;
+    padding:25px;
     font-family:Poppins, sans-serif;
 }
 .coronavirus-image{
@@ -31,32 +35,11 @@ h1{
     box-sizing:border-box;
 }
 
-.home{
-    list-style-type:none;
-    margin:30px;
-    text-align:right;
-    padding:20px;
-    background-color:#2c88e2;
-    width:150px;
-}
-    sign up{
-    display:block;
-    text-align:right;
-    text-decoration:none;
-    color:gray;
-    padding:20px;
-    float:right;
-}
+
 .li a:hover{
 color:gray;
 }
 
-p{
-    width:300px;
-    height:200px;
-    text-align:center;
-    color:#2c88e2;
-}
 
 
 
