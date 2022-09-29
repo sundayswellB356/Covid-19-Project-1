@@ -21,8 +21,8 @@ h1{
     text-align:center;
     font-family:Poppins, sans-serif;
 }
-.coronavirus{
+#coronavirus-image{
     width:100%;
     height:400px;
-    background-image:url('..images/virus-4030721__340.WEBP file.webp')no-repeat;
+    background-image:url()no-repeat;
 }
