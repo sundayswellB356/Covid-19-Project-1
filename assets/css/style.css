@@ -144,9 +144,9 @@ hr {
 
 
 .government h2 {
-    text-align: right;
+    margin-top:auto 0;
+   text-align:center;
 }
-
 .restrictions p {
     text-align: right;
 }
@@ -247,8 +247,6 @@ footer {
 }
 
 #photos>images {
-    width: 100%;
-    float: right;
 }
 
 input[type=text]:focus,
@@ -311,9 +309,6 @@ button:hover {
     margin-bottom: 50px;
 }
 
-#iframe {
-    width: 100%;
-}
 
 
 
