@@ -53,10 +53,10 @@ body {
     border-bottom: 1px solid darkslategray;
 }
 
-coronavirus-image {
-    height: 600px;
-    width: 100%;
-
+.coronavirus-image {
+   text-align:center;
+   margin: 0 auto;
+   display:block;
 }
 
 #wash-your-hands {
