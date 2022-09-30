@@ -22,16 +22,16 @@ h1{
     font-size:20px;
     text-align:center;
     font-weight:bold;
-    padding:25px;
+    padding:30px;
     font-family:Poppins, sans-serif;
 }
 
 h2{
     color:gray;
     font-size:20px;
-    text-align:left;
+    text-align:justify;
     font-weight:bold;
-    padding:25px;
+    padding:30px;
     font-family:Roboto, sans-serif;
 } 
 
@@ -69,16 +69,9 @@ h2{
 footer{
     height:150px;
 }
-
-.social-networks{
-    display:inline;
-}
-.social-networks i{
-    font-size:160%;
-    margin:1%;
-    padding:5%;
-    color:#a8aaab;
-}
-
+p {
+    border: 2px #a8aaab;;
+    padding: 30px;
+  }
 
 
