@@ -23,7 +23,7 @@ Section 1:	Where Coronavirus Originated From?
 Section 2:	Our Economy and the Impact Coronavirus 19 had.
 Section 3:	The Coronavirus impact on our Front-line staff, and hospitals.
 Section 4:	The symptoms of Coronavirus 2019.
-!["2022-09-12"]("/images/2022-09-12 7.png").
+![2022-09-12](assets/images/2022-09-12%20(7).png).
 
 I also brought in a header section, proceeded by a footer section. I also incorporated images, and various videos, that both Government and Medical teams, updated us on all aspects of the progression of the Coronavirus 19. 
 
